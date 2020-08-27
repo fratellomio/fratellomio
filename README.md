@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![Alt Text] (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 <!--
 **fratellomio/fratellomio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
